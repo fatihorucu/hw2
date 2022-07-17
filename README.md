@@ -68,3 +68,4 @@ Create a set of transactions. Let these customers purchase some products. Associ
 In the test class there should be three ArrayLists as: customers, products and transactions. 
 Traversing over these lists management of the store should learn total revenue, total discounts make in transactions including product and transaction promotions, 
 Each customer can be quaried for her total points as well. The management should be able to change product promotions as well as parameters of transaction promotions for Gold and Regular customers, may change the point accumulation parameters of the two types of customers as well. 
+
